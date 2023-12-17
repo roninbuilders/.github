@@ -1,1 +1,1 @@
-![Ronin Banner](../roninbuilders.png)
+![Ronin Banner](https://github.com/roninbuilders/.github/blob/main/roninbuilders.png)
